@@ -21,3 +21,5 @@ Convenient buttons for quick folder access and operation renaming
 Visual feedback on operation statuses (active/suppressed) and tool assignments
 
 This tool serves as a powerful interface that integrates directly with the CAMWorks API to automate setup handling and file generation, boosting efficiency and user experience.
+
+#SolidWorksCam #SolidWorks #Cam
